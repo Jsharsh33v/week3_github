@@ -1,0 +1,48 @@
+Last login: Wed Sep  4 13:53:12 on ttys000
+sharsheevjanybek@Sharsheevs-MacBook-Pro ~ % mkdir myproject
+mkdir: myproject: File exists
+sharsheevjanybek@Sharsheevs-MacBook-Pro ~ % nano index.html
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  UW PICO 5.09                    File: index.html                    Modified  
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>Document</title>
+</head>
+<body>
+<h1>Hello World</h1>
+<p> This is the first file in my new Git Repo. </p>
+</body>
+</html>
+ 
+
+
+
+
+
+
+
+
+
+^G Get Help  ^O WriteOut  ^R Read File ^Y Prev Pg   ^K Cut Text  ^C Cur Pos   
+^X Exit      ^J Justify   ^W Where is  ^V Next Pg   ^U UnCut Text^T To Spell  
