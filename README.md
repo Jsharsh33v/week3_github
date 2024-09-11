@@ -3,4 +3,4 @@
 
 This line is used for sharing git push.
 
-- Navigate to the project directory: ```cd yourproject```
+Navigate to the project directory: ```cd yourproject```
